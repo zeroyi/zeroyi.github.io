@@ -12,7 +12,7 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
  
-```python
+```java
 s = "Python syntax highlighting"
 print s
 ```
