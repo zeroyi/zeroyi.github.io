@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "new post"
+title: "Some though at New Year's Eve"
 description: ""
 category: 
 tags: []
