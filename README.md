@@ -1,1 +1,1 @@
-# Kaneg Blog
+# My Blog
