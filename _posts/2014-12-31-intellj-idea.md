@@ -15,6 +15,7 @@ Intellij IDEA, later, I will just call it IDEA, is one of products of Jetbrains 
 
 ### File editor
 As as IDE, the editor is one of most fundamental functionality. IDEA has abundant functions of editor. Some of them are usual operations which exist in other editors, some of them are unique. Below are list of them:
+
 * Select word/sentence(Ctrl-W)
 * Remove one line (Ctrl-Y)
 * Duplicated one line (Ctrl-D)
@@ -24,11 +25,14 @@ As as IDE, the editor is one of most fundamental functionality. IDEA has abundan
 * Find in path (Ctrl-Shift-F)
 
 ### Shortcut
-If you're a person that continually pursuing efficiency of development, shortcut will be your favorites.
+If you're a person that continually pursuing efficiency of development, shortcut will be your must. I strongly recommend you learn some basic shortcut in memory.  Although it maybe a little slow to remember the keys, you will be benefit more in a long term. 
+
+> Tip: You can find which actions are used frequently by you, so you can remember the shortcut in high priority.
 
 ### Plugins
+In most of case, the out-of-box features are far more enough for most of developers. However, different company/team/group/person has different requirements/environment, in some case, the existing feature can not satisfy you. And sometimes, you may want to improve your work efficiency rather than repeat boring daily work again and again. At this time,  you can go to the plugin centre of IDEA to search if there are existing plugin made by other IDEA users. If there is still no what you need, you can develop plugin by yourself.  Since it is another big topic, I may write a new article for in future. For now, I have developed several plugins, some of are just for internal use, some of are published in the plugin centre of IDEA.
 
---to be continue...
+#To be continue...
 
 
 
