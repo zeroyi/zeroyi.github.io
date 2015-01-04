@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello Kane
+title: 你好，零一空间
 tagline: 
 ---
 {% include JB/setup %}
