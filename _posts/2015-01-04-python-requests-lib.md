@@ -11,7 +11,8 @@ tags: []
 
 说起Python的http工具，原生的不是没有，功能也不是不够强大，而是太多太杂不好用，比如urllib,  urllib2。说好听叫不够人性化，说不好听的，这不是给人用的。这正是Requests这一神器推出的口号：HTTP for Humans.  
 
-关于Requests的使用方法，它的官方主页有简明的使用方法和例子，我就举几个简单的例子。
+关于Requests的使用方法，它的官方主页有简明的使用方法和例子，我就举几个简单的例子:
+
 ### Get
 获取github主页内容
 {% highlight python %}
