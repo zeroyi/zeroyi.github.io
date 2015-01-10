@@ -65,14 +65,14 @@
   color: #FFF; }
 div .content{
 color: #62646b;
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: Georgia,Times,"Times New Roman","Microsoft YaHei",serif;
     font-size: 1.2em;
     font-weight: 100;
     line-height: 35px;
 }
 .content li{
 color: #62646b;
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: Georgia,Times,"Times New Roman","Microsoft YaHei", serif;
     font-weight: 100;
     line-height: 35px;
 }
